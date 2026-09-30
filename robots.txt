@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nado1717.github.io/Conan-Web-Studio/sitemap.xml
